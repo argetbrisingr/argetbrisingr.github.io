@@ -3151,9 +3151,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Awoken Guardian",
-			"collector_number": "1",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/1_Crow, Hunter Vanguard.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/285_Crow, Hunter Vanguard.png"
 			}
 		},
 		{
@@ -3161,9 +3161,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Cabal Soldier",
-			"collector_number": "2",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/2_Dominus Ghaul, Ghost Primus.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/286_Dominus Ghaul, Ghost Primus.png"
 			}
 		},
 		{
@@ -3171,9 +3171,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Guardian",
-			"collector_number": "0",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/0_The Guardian, Hunter.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/283_The Guardian, Hunter.png"
 			}
 		},
 		{
@@ -3181,9 +3181,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Guardian",
-			"collector_number": "0",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/0_The Guardian, Warlock.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/284_The Guardian, Warlock.png"
 			}
 		},
 		{
@@ -3191,9 +3191,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}{G}",
 			"type": "Legendary Creature — Hive God",
-			"collector_number": "3",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/3_Oryx, Osmium King.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/287_Oryx, Osmium King.png"
 			}
 		},
 		{
@@ -3201,9 +3201,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{W}{U}",
 			"type": "Legendary Artifact Creature — Vex",
-			"collector_number": "4",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/4_Panoptes, Infinite Mind.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/288_Panoptes, Infinite Mind.png"
 			}
 		},
 		{
@@ -3211,16 +3211,16 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}{B}",
 			"type": "Legendary Creature — Guardian Hive God",
-			"collector_number": "5",
+			"collector_number": "289",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://argetbrisingr.github.io/sets/DES-files/img/5_Savathûn, Lucent Mother_back.png"
+					"en": "https://argetbrisingr.github.io/sets/DES-files/img/289_Savathûn, Lucent Mother_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/5_Savathûn, Lucent Mother_front.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/289_Savathûn, Lucent Mother_front.png"
 			}
 		},
 		{
@@ -3228,9 +3228,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Eliksni Warrior",
-			"collector_number": "6",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/6_Skolas, Kell of Kells.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/290_Skolas, Kell of Kells.png"
 			}
 		},
 		{
@@ -3238,9 +3238,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}{R}",
 			"type": "Legendary Creature — Hive God",
-			"collector_number": "7",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://argetbrisingr.github.io/sets/DES-files/img/7_Xivu Arath, Conqueror Immortal.png"
+				"en": "https://argetbrisingr.github.io/sets/DES-files/img/291_Xivu Arath, Conqueror Immortal.png"
 			}
 		},
 	]
