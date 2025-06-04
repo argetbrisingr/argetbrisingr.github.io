@@ -35,11 +35,11 @@
             "flavor_text": "[i]The shadows have claws.[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive;"
+            "notes": ""
         },
         {
             "card_name": "Finisher",
@@ -171,11 +171,11 @@
             "flavor_text": "[i]\u201cThese are our worlds...Take them back.\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Damage Phase",
@@ -397,11 +397,11 @@
             "flavor_text": "[i]Death flies on tarnished wings.[/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Gensym Scribe",
@@ -523,11 +523,11 @@
             "flavor_text": "[i]\u201cThe Nightmares appear to be extracted from our very psyche\u2014violent manifestations that wreak havoc, tormenting us with our past trauma.\u201d\n\u2014Eris Morn[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive<2>;"
+            "notes": ""
         },
         {
             "card_name": "Compression Blast",
@@ -577,11 +577,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Ensnaring Slam",
@@ -721,11 +721,11 @@
             "flavor_text": "[i]\u201cWith this power, we make our own fate.\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Stag-Crowned Warlock",
@@ -811,11 +811,11 @@
             "flavor_text": "[i]\u201cI tried standing under a falling Warsat once. Good thing I have a Ghost.\u201d\n\u2014Cayde-6[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Chelsea Velazquez",
-            "notes": "!tokens Salvage<2>;Treasure;"
+            "notes": ""
         },
         {
             "card_name": "Coldsnap Grenade",
@@ -1109,11 +1109,11 @@
             "flavor_text": "[i]\u201cAccept my thanks in the form of my belligerent associates.\u201d \n\u2014The Spider[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Red Legionary",
@@ -1145,11 +1145,11 @@
             "flavor_text": "[i]\u201cField reports indicate that Eramis is rallying violent dissidents to reconstruct House Devils from the ground up.\u201d\n\u2014Hidden Agent[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Necrotic Warlock",
@@ -1235,11 +1235,11 @@
             "flavor_text": "[i]You are an Acolyte. Half-grown backbone of the Hive. You hide behind cover and wish for greatness. You need help. There is a knife for you. It is shaped like [/i][not alone][i]. Take up the knife. Take your new shape.[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Taken Eye;"
+            "notes": ""
         },
         {
             "card_name": "Lucent Revenant",
@@ -1335,11 +1335,11 @@
             "flavor_text": "[i]\u201cThe Hidden Swarm that previously served Crota has banded together once again.\u201d\n\u2014Eris Morn[/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive;"
+            "notes": ""
         },
         {
             "card_name": "Network Cyclops",
@@ -1481,11 +1481,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Outlaw of Galanor",
@@ -1607,11 +1607,11 @@
             "flavor_text": "[i]\u201cThe Fallen have tracked us to Nessus, and damaged Failsafe's systems in their raid. Operation Piccolo has begun.\u201d\n\u2014Commander Zavala[/i]",
             "pt": "5/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Winter Wolf",
@@ -1625,11 +1625,11 @@
             "flavor_text": "[i]\u201cThey hear the howls and know fear.\u201d\n\u2014Lord Saladin[/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Alex Heath",
-            "notes": "!tokens Guardian W1;Guardian W2;Guardian W3;"
+            "notes": ""
         },
         {
             "card_name": "Commune with the Deep",
@@ -1679,11 +1679,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Shielded Phalanx",
@@ -1697,11 +1697,11 @@
             "flavor_text": "[i]One shield in the stalwart Cabal line, advancing patiently into the storm.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "War Beasts",
@@ -1715,11 +1715,11 @@
             "flavor_text": "[i]Native to the Cabal's capital of Torobatl, their War Beasts are effective as both trackers and shock troops.[/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Loyalist Incendior",
@@ -1733,11 +1733,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Brood Seal",
@@ -2147,11 +2147,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Itinerant Patrol",
@@ -2201,11 +2201,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Florian Zenz",
-            "notes": "!tokens Guardian W1;Guardian W2;Guardian W3;"
+            "notes": ""
         },
         {
             "card_name": "Red Legion Fire Support",
@@ -2219,11 +2219,11 @@
             "flavor_text": "[i]Primus Ta'aun calls for fire support. Artillery shrieks overhead. On the plains below the Cabal perimeter, Vex march out of the lightning.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Chelsea Velazquez",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Sentinel Bulwark",
@@ -2301,11 +2301,11 @@
             "flavor_text": "[i]\u201cWe will honor tradition. We will accept the Rite of Proving. And we will win or lose it as Cabal.\u201d\n\u2014Empress Caiatl[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "The Manticore",
@@ -2671,11 +2671,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive<2>;"
+            "notes": ""
         },
         {
             "card_name": "Sentinel Knight",
@@ -2789,11 +2789,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive Horror;"
+            "notes": ""
         },
         {
             "card_name": "Chosen by the Light",
@@ -2861,11 +2861,11 @@
             "flavor_text": "[i]If there were any who called themselves Kell out there, they would not know Variks, Judgment, or the laws that governed the Houses. The scattered children of the Whirlwind were dead.[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Jaime Jones",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Fireborn Sunsinger",
@@ -2961,11 +2961,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Legion Thresher",
@@ -2979,11 +2979,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Revision Zero",
@@ -3087,11 +3087,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Sung Choi",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Brash Guardian",
@@ -3105,11 +3105,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Jaime Jones",
-            "notes": "!tokens Salvage;Guardian G1;Guardian G2;Guardian G3;"
+            "notes": ""
         },
         {
             "card_name": "Defiled Servitor",
@@ -3213,11 +3213,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Fireteam Paragon",
@@ -3231,11 +3231,11 @@
             "flavor_text": "[i]\u201cNo matter how strong you are, there will always be a weight too heavy to carry alone.\u201d\n\u2014Reed-7, Exo Titan[/i]",
             "pt": "6/6",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Brian Moncus",
-            "notes": "!tokens Guardian G1;Guardian G2;Guardian G3;"
+            "notes": ""
         },
         {
             "card_name": "Solstice Mementos",
@@ -3285,11 +3285,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Threadling;Threadling<2>;Threadling<3>;Threadling<4>;"
+            "notes": ""
         },
         {
             "card_name": "Outpost Raid",
@@ -3303,11 +3303,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Treasure;Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Curse of The Shattered Throne",
@@ -3393,11 +3393,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Vanguard Strikerunner",
@@ -3411,11 +3411,11 @@
             "flavor_text": "[i]\u201cStrikes are the backbone of the Vanguard's response to the Darkness. Each mission is planned for maximum hindrance of enemy lines.\u201d\n\u2014Commander Zavala[/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Ryan DeMita",
-            "notes": "!tokens Guardian W1;Guardian W2;Guardian W3;"
+            "notes": ""
         },
         {
             "card_name": "Scarbearer",
@@ -3475,11 +3475,11 @@
             "flavor_text": "[i]\u201cIf we can separate our deaths from ourselves, and hide them, we will be hard to kill.\u201d\n\u2014Ir An\u00fbk and Ir Halak to Oryx[/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Hive;"
+            "notes": ""
         },
         {
             "card_name": "Drop Pod Bay",
@@ -3493,11 +3493,11 @@
             "flavor_text": "[i]\u201cAre those things safe?\u201d\n\u201cCan't be that\u2014AHHH!\u201d\n\u2014Ghost, with Osiris[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Aaron Cruz",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Ordinance Division",
@@ -3611,11 +3611,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Unclaimed Territory",
@@ -3651,7 +3651,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian W1"
+            "notes": "!exportname Guardian W1\n\n!related Far System Trekkers;Hawkmoon;Winter Wolf;Vanguard Strikerunner;The Farm;"
         },
         {
             "card_name": "Guardian W2",
@@ -3669,7 +3669,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian W2"
+            "notes": "!exportname Guardian W2\n\n!related Far System Trekkers;Hawkmoon;Winter Wolf;Vanguard Strikerunner;The Farm;"
         },
         {
             "card_name": "Guardian W3",
@@ -3687,7 +3687,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian W3"
+            "notes": "!exportname Guardian W3\n\n!related Far System Trekkers;Hawkmoon;Winter Wolf;Vanguard Strikerunner;The Farm;"
         },
         {
             "card_name": "Osiris, Scholar of the Cosmos",
@@ -3705,7 +3705,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Brian Moncus",
-            "notes": "!tokens Osiris, Scholar of the Cosmos;"
+            "notes": "!related Osiris, Scholar of the Cosmos;"
         },
         {
             "card_name": "Hive",
@@ -3723,7 +3723,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Acolyte of the Hidden Swarm;Brood Mother<2>;Deception of Eons;Savath\u00fbn's Song;Hive Thrall;Sorrow Spawning<2>;Oversoul Knight;Xivu Arath, God of War;"
         },
         {
             "card_name": "Hive Horror",
@@ -3741,7 +3741,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Witches' Ritual;"
         },
         {
             "card_name": "Oryx, the Taken King",
@@ -3759,7 +3759,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Oryx, the Taken King;"
         },
         {
             "card_name": "Taken Eye",
@@ -3777,7 +3777,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Ravenous Taken Acolyte;"
         },
         {
             "card_name": "Cabal",
@@ -3795,7 +3795,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Cabal Scouting Party;Calus's Loyalists;Red Legion Fire Support;Rite of Proving;Shadow Legion Psion;Shielded Phalanx;Val Ca'uor, Primus Apparent;Ceremonial Bather;Legion Thresher;Loyalist Incendior;Shadow Guard;War Beasts;Drop Pod Bay;Empress Caiatl;"
         },
         {
             "card_name": "Guardian G1",
@@ -3813,7 +3813,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian G1"
+            "notes": "!exportname Guardian G1\n\n!related Brash Guardian;Fireteam Paragon;"
         },
         {
             "card_name": "Guardian G2",
@@ -3831,7 +3831,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian G2"
+            "notes": "!exportname Guardian G2\n\n!related Brash Guardian;Fireteam Paragon;"
         },
         {
             "card_name": "Guardian G3",
@@ -3849,7 +3849,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Joseph Biwald",
-            "notes": "!exportname Guardian G3"
+            "notes": "!exportname Guardian G3\n\n!related Brash Guardian;Fireteam Paragon;"
         },
         {
             "card_name": "Threadling",
@@ -3867,7 +3867,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Strand Needlestorm;Strand Needlestorm<2>;Strand Needlestorm<3>;Strand Needlestorm<4>;"
         },
         {
             "card_name": "Oracle",
@@ -3885,7 +3885,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related The Templar;"
         },
         {
             "card_name": "Perfect Paradox",
@@ -3903,7 +3903,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Saint-14;"
         },
         {
             "card_name": "Salvage",
@@ -3921,7 +3921,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Eramis's Hoarfrost;Fallen Shank;Ascension of the Devil Splicers;Ether Nomads;Glimmer Extractor;Guardian Games;Public Event<2>;Salvation Marauder;Brash Guardian;Ether Fizz;Go on Patrol;High Value Target;Lunar Scavenger;Outpost Raid;Sepiks Prime;Sniper Vandal;Siviks, Lost to None;Warsat;The Plaguelands;Skolas, Kell of Kells;Skolas, Kell of Kells<2>;"
         },
         {
             "card_name": "SIVA Swarm",
@@ -3939,7 +3939,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Brandon McCamey",
-            "notes": "!tokens SIVA Swarm;"
+            "notes": "!related SIVA Swarm;"
         },
         {
             "card_name": "Treasure",
@@ -3957,7 +3957,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Public Event;Outpost Raid;"
         },
         {
             "card_name": "Vex",
@@ -3975,7 +3975,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Open Timestream;"
         },
         {
             "card_name": "Hawkmoon",
@@ -3989,11 +3989,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Gabriel Flauzino",
-            "notes": "!tokens Guardian W1;Guardian W2;Guardian W3;"
+            "notes": ""
         },
         {
             "card_name": "Blazing Crescendo",
@@ -4029,7 +4029,7 @@
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": ""
+            "notes": "!related Bergusia Forge;"
         },
         {
             "card_name": "Val Ca'uor, Primus Apparent",
@@ -4043,11 +4043,11 @@
             "flavor_text": "[i]\u201cThe Dominus was a strong leader, but the Red Legion had more to offer than simply overwhelming force. They think us weak and insipid. I will show them the might of the Red Legion, and they shall not forget.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "The Templar",
@@ -4061,11 +4061,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Oracle;"
+            "notes": ""
         },
         {
             "card_name": "The Traveler",
@@ -4125,11 +4125,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Raid Leader",
@@ -4189,11 +4189,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Piotr Jablonski",
-            "notes": "!tokens Perfect Paradox;"
+            "notes": ""
         },
         {
             "card_name": "Praetorian",
@@ -4315,11 +4315,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Brian Moncus",
-            "notes": "!tokens Osiris, Scholar of the Cosmos;"
+            "notes": ""
         },
         {
             "card_name": "Walk the Corridors",
@@ -4459,11 +4459,11 @@
             "flavor_text": "[i]\u201cWith his sword Crota cut open a new wound, into a new space.Out of this wound came machines called Vex. They invaded Oryx's throne world.\u201d\n\u2014Books of Sorrow, XXXVIII[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Vex;"
+            "notes": ""
         },
         {
             "card_name": "One with the Machine",
@@ -4513,11 +4513,11 @@
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Oryx, the Taken King;"
+            "notes": ""
         },
         {
             "card_name": "Shadowshot Deadfall",
@@ -4549,7 +4549,7 @@
             "flavor_text": "[i]These sentinels are believed, in some circles, to serve as the eyes of the Hive's innermost covens, allowing powerful Wizards and Knights to watch over their domains. [/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "transform double faced",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
@@ -4563,7 +4563,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Bungie",
-            "notes": "!tokens Hive<2>;"
+            "notes": ""
         },
         {
             "card_name": "Titan of the First Pillar",
@@ -4713,11 +4713,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Dulce Isis Segarra Lopez",
-            "notes": "!tokens Hive;"
+            "notes": ""
         },
         {
             "card_name": "Invasion Force",
@@ -4785,11 +4785,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Terror of Six Fronts",
@@ -4857,11 +4857,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Christian Piccolo",
-            "notes": "!tokens Black Armory Frame;"
+            "notes": ""
         },
         {
             "card_name": "Trinity Ghoul",
@@ -4911,11 +4911,11 @@
             "flavor_text": "[i]\u201cLong have we wandered in the blind prison of flesh. The gift brings pain, yes, but godhood must come at a price.\u201d \u2014Aksis, Archon Prime.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Isak Olof",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Call for Backup",
@@ -5019,11 +5019,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "Crow's Pathfinder",
@@ -5209,11 +5209,11 @@
             "flavor_text": "[i]\u201cI AM STRIFE. I AM DEATH. I AM XIVU ARATH, AND I AM YOUR END.\u201d[/i]",
             "pt": "5/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Andrew Soman",
-            "notes": "!tokens Hive;"
+            "notes": ""
         },
         {
             "card_name": "Crota, Eater of Hope",
@@ -5371,11 +5371,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Cabal;"
+            "notes": ""
         },
         {
             "card_name": "Crucible Mentor",
@@ -5507,11 +5507,11 @@
             "flavor_text": "[i]~consume enhance replicate~[/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Brandon McCamey",
-            "notes": "!tokens SIVA Swarm;"
+            "notes": ""
         },
         {
             "card_name": "Wayward Ghost",
@@ -5543,11 +5543,11 @@
             "flavor_text": "[i]\u201cNo walls at the Farm. Come and go whenever you want. So, let's make sure everyone can get there, eh Guardian?\u201d\n\u2014Suraya Hawthorne[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Sung Choi",
-            "notes": "!tokens Guardian w1;Guardian w2;Guardian w3;"
+            "notes": ""
         },
         {
             "card_name": "Firebase Hades",
@@ -5579,11 +5579,11 @@
             "flavor_text": "[i]\u201cThe Fallen are a symptom... SIVA is the disease.\u201d\n\u2014Lord Saladin[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Sung Choi",
-            "notes": "!tokens Salvage;"
+            "notes": ""
         },
         {
             "card_name": "The Pyramidion",
@@ -5769,11 +5769,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "DES",
             "loyalty": "",
             "artist": "Bungie",
-            "notes": "!tokens Salvage;Salvage<2>;"
+            "notes": ""
         },
         {
             "card_name": "Xivu Arath, Conqueror Immortal",
