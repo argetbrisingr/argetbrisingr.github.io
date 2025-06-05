@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "Sol\u2019s Destiny",
     "formats": "",
     "trimmed": "y",
@@ -4997,9 +4997,9 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "This spell can't be countered.\n[i]Soulfire[/i] \u2014 As long as a permanent you controlled left the battlefield this turn, lands you control have \u201c{T}: Add {C}{C}. This land deals 2 damage to you.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "3/1",
+            "rules_text": "This spell can't be countered.\nSacrifice an artifact or land: Add B. Activate only once each turn.",
+            "flavor_text": "[i]\u201cIs your Light bright enough to stand in full gaze of the Hive's abyss?\u201d[/i]",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "DES",
