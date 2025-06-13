@@ -4527,7 +4527,7 @@
             "number": 121,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Flash\nCreatures your opponents control get -2/-2.\nWhenever a creature an opponent controls dies, its controller loses 2 life.\nAt the beginning of your upkeep, sacrifice this enchantment.",
+            "rules_text": "Flash\nCreatures your opponents control get -2/-2.\nWhenever a creature an opponent controls dies, its controller loses 1 life.\nAt the beginning of your end step, sacrifice this enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
